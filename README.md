@@ -6,7 +6,7 @@
   <img src="assets/ascii_art.png" width="400">
 </p>
 
-Student at QUT (Queensland University of Technology), studying Bachelor of Information Technology (Computer Science).
+Student at QUT (Queensland University of Technology), <br> studying Bachelor of Information Technology (Computer Science).
 
 #
 
