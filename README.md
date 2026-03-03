@@ -1,7 +1,9 @@
 <div align="center">
 
+<h1>Nathan Pithie</h1>
+
 <p align="center">
-  <img src="assets/ascii_art.png" width="600" height="auto">
+  <img src="assets/ascii_art.png" width="400">
 </p>
 
 Student at QUT (Queensland University of Technology), studying Bachelor of Information Technology (Computer Science).
