@@ -19,6 +19,6 @@ Student at QUT (Queensland University of Technology), <br> studying Bachelor of 
 #
 
 ### GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RedNate22&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RedNate22&theme=synthwave&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ---
