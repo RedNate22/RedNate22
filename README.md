@@ -13,16 +13,19 @@ Student at QUT (Queensland University of Technology), <br> studying Bachelor of 
 ### Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/nate-p22)
 
-### Tech Stack:
-[![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,py,c,html,css,bootstrap,git,mysql,sqlite)]()
+### Primary Stack:
+[![Primary Stack](https://skillicons.dev/icons?i=cs,dotnet,py,html,css,mysql,sqlite)]()
 
-### My Everyday Tech:
-[![My Everyday Tech](https://skillicons.dev/icons?i=obsidian,discord,stackoverflow,windows,raspberrypi,github)]()
+### Tools:
+[![Tools](https://skillicons.dev/icons?i=git,github,obsidian,discord,windows,raspberrypi)]()
+
+### Familiar With:
+[![Familiar With](https://skillicons.dev/icons?i=c)]()
 
 ### Currently Learning:
 [![Currently Learning](https://skillicons.dev/icons?i=azure,java,js,ts,bash,linux)]()
 
-### IDE's
+### IDE's:
 [![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,vim,idea)]()
 
 ### GitHub Stats:
