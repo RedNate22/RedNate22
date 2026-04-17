@@ -34,3 +34,7 @@ Student at QUT (Queensland University of Technology), <br> studying Bachelor of 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RedNate22&theme=synthwave&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200)]()
 
 ---
+
+<!--START_SECTION:waka-->
+<!-- Your stats will be automatically inserted here -->
+<!--END_SECTION:waka-->
