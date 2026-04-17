@@ -3,7 +3,7 @@ name: wakatime-stats
 on:
   schedule:
     #- cron: '0 12 * * *'  # Runs daily at 12:00 UTC
-    - cron: '35 16 * * *' # Runs daily at 16:35 UTC
+    - cron: '38 16 * * *'
 
 jobs:
   update-readme:
