@@ -5,8 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
-    #- cron: "0 0 * * *"
-    - cron: "55 16 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -20,7 +19,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
+          REPOSITORY: RedNate22/RedNate22 # optional
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
