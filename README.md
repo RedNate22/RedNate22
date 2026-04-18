@@ -1,13 +1,12 @@
 <p align="center">
-    <img src="assets/ascii_art.png" width="400"><br>
+    <img src="assets/ascii_art.png" width="400">
+</p>
+<p align="center">
     <img src="assets/nate.png">
 </p>
-
-<img src="assets/shape-large-29.png" width="300">
-
-```
-Student at QUT (Queensland University of Technology), studying Bachelor of Information Technology (Computer Science).
-```
+<p align="center">
+    Student at QUT (Queensland University of Technology), <br>studying Bachelor of Information Technology (Computer Science).   
+</p>
 
 <!--START_SECTION:waka-->
 
