@@ -1,9 +1,11 @@
+<p align="center"> 
+    <img src="assets/banner.png" width="100%>
+</p>
+
 <p align="center">
     <img src="assets/ascii_art.png" width="400">
 </p>
-<p align="center">
-    <img src="assets/nate.png">
-</p>
+
 <p align="center">
     Student at QUT (Queensland University of Technology), <br>studying Bachelor of Information Technology (Computer Science).   
 </p>
