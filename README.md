@@ -1,18 +1,15 @@
-<div align="center">
+<p align="center"><img src="assets/ascii_art.png" width="400"></p>
+<p align="center"><img src="assets/nate.png" align="center"></p>
 
-<p align="center">
-  <img src="assets/nate.png">
-</p>
+```c
+Student at QUT (Queensland University of Technology), studying Bachelor of Information Technology (Computer Science).
+```
 
-<p align="center">
-  <img src="assets/ascii_art.png" width="400">
-</p>
-
-Student at QUT (Queensland University of Technology), <br> studying Bachelor of Information Technology (Computer Science).
+<div align="left">
 
 <!--START_SECTION:waka-->
 
-```rust
+```ruby
 From: 17 April 2026 - To: 17 April 2026
 
 Total Time: 0 secs
@@ -41,8 +38,5 @@ No activity tracked
 
 ### IDE's:
 [![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,vim,idea)]()
-
-### GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RedNate22&theme=synthwave&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200)]()
 
 ---
