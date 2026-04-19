@@ -2,13 +2,40 @@
     <img src="assets/banner.svg" width="100%">        
 </p>
 
-<p align="center">
-    <img src="assets/ascii_art.png" width="400">
-</p>
+```bash
+nate@github:~$ info --all
 
-<p align="center">
-    Student at QUT (Queensland University of Technology), <br>studying Bachelor of Information Technology (Computer Science).   
-</p>
+> name        Nate
+> location    Brisbane, AUS
+> education   QUT — Bachelor of IT (Computer Science)
+> bio         Dev in training. My cat has better posture at the desk than me.
+> quote       "Space is hard." - literally every space agency
+              after every failed launch
+```
+
+```bash
+nate@github:~$ socials --list
+
+  linkedin    linkedin.com/in/nate-p22
+  github      github.com/rednate22
+  links below ↓
+```
+
+```bash
+nate@github:~$ stack --list
+
+  languages   [C#] [Python] [Java] [C]
+  framework   [.NET] [Flask]
+  database    [MySQL] [SQLite]
+
+nate@github:~$ tools --list
+
+  [Git] [Obsidian] [Raspberry Pi]
+
+nate@github:~$ learning --list
+
+  [Azure] [JavaScript] [TypeScript] [Linux]
+```
 
 <!--START_SECTION:waka-->
 
@@ -22,30 +49,12 @@ Markdown   14 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 
 <!--END_SECTION:waka-->
 
-#
-
-### Socials:
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/nate-p22)
-
-### Primary Stack:
-
-[![Primary Stack](https://skillicons.dev/icons?i=cs,dotnet,py,html,css,mysql,sqlite)]()
-
-### Tools:
-
-[![Tools](https://skillicons.dev/icons?i=git,github,obsidian,discord,windows,raspberrypi)]()
-
-### Familiar With:
-
-[![Familiar With](https://skillicons.dev/icons?i=c)]()
-
-### Currently Learning:
-
-[![Currently Learning](https://skillicons.dev/icons?i=azure,java,js,ts,bash,linux)]()
-
-### IDE's:
-
-[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,vim,idea)]()
-
----
+<p align="center" width>
+  <br>
+  <a>Social links:</a><br>
+  <a href="https://linkedin.com/in/nate-p22">
+    <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+  <br>
+  <img src="https://raw.githubusercontent.com/RedNate22/RedNate22/main/assets/skeleton.gif">
+</p>
