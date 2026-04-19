@@ -55,6 +55,4 @@ Markdown   14 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
   <a href="https://linkedin.com/in/nate-p22">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
-  <br>
-  <img src="https://raw.githubusercontent.com/RedNate22/RedNate22/main/assets/skeleton.gif">
 </p>
