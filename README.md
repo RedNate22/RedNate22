@@ -8,8 +8,8 @@ nate@github:~$ info --all
 > location    Brisbane, AUS
 > education   QUT — Bachelor of IT (Computer Science)
 > bio         Dev in training. My cat has better posture at the desk than me.
-> quote       "Space is hard." - literally every space agency
-              after every failed launch
+> quote       "Astronauts are not superhuman. They just train until difficult
+              things become normal." — Chris Hadfield
 ```
 
 ```bash
@@ -17,9 +17,7 @@ nate@github:~$ socials --list
 > linkedin    linkedin.com/in/nate-p22
 > github      github.com/rednate22
 > links below ↓
-```
 
-```bash
 nate@github:~$ stack --list
 > languages   [C#] [Python] [Java] [C]
 > framework   [.NET] [Flask]
