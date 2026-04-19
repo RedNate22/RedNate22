@@ -8,8 +8,8 @@ nate@github:~$ info --all
 > location    Brisbane, AUS
 > education   QUT — Bachelor of IT (Computer Science)
 > bio         Dev in training. My cat has better posture at the desk than me.
-> quote       "Astronauts are not superhuman. They just train until difficult
-              things become normal." — Chris Hadfield
+> quote       "Even through your hardest days, remember we are all made of
+              stardust" — Carl Sagan
 ```
 
 ```bash
