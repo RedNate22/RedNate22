@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="assets/banner.png" width="100%>
+    <img src="assets/banner.png" width="100%">        
 </p>
 
 <p align="center">
@@ -11,14 +11,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```rust
-From: 17 April 2026 - To: 18 April 2026
-
-Total Time: 14 mins
-
-Markdown   14 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
-```
 
 <!--END_SECTION:waka-->
 
