@@ -4,6 +4,7 @@
 
 ```bash
 nate@github:~$ info --all
+
 > name        Nate
 > location    Brisbane, AUS
 > education   QUT — Bachelor of IT (Computer Science)
@@ -14,19 +15,22 @@ nate@github:~$ info --all
 
 ```bash
 nate@github:~$ socials --list
-> linkedin    linkedin.com/in/nate-p22
-> github      github.com/rednate22
+
 > links below ↓
+> linkedin    linkedin.com/in/nate-p22
 
 nate@github:~$ stack --list
+
 > languages   [C#] [Python] [Java] [C]
 > framework   [.NET] [Flask]
 > database    [MySQL] [SQLite]
 
 nate@github:~$ tools --list
+
 > [Git] [Obsidian] [Raspberry Pi]
 
 nate@github:~$ learning --list
+
 > [Azure] [JavaScript] [TypeScript] [Linux]
 ```
 
