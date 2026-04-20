@@ -18,20 +18,30 @@ nate@github:~$ socials --list
 
 > links below ↓
 > linkedin    linkedin.com/in/nate-p22
+```
 
+```bash
 nate@github:~$ stack --list
 
 > languages   [C#] [Python] [Java] [C]
-> framework   [.NET] [Flask]
-> database    [MySQL] [SQLite]
+> frameworks  [.NET] [Flask]
+> databases   [MySQL] [SQLite]
+```
 
+```bash
 nate@github:~$ tools --list
 
 > [Git] [Obsidian] [Raspberry Pi]
+```
 
+```bash
 nate@github:~$ learning --list
 
-> [Azure] [JavaScript] [TypeScript] [Linux]
+> [Azure-DevOps] [AWS]
+> [JavaScript] [TypeScript] [C++]
+> [NoSQL] [MongoDB] [PostgresSQL]
+> [Linux]
+> [Godot]
 ```
 
 <!--START_SECTION:waka-->
