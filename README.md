@@ -46,12 +46,6 @@ nate@github:~$ learning --list
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 17 April 2026 - To: 20 April 2026
-
-Total Time: 45 mins
-```
-
 <!--END_SECTION:waka-->
 
 <p align="center" width>
