@@ -31,7 +31,7 @@ jobs:
           SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: false # optional
           ### IGNORED_LANGUAGES: Binary YAML JSON TOML XML Markdown # optional
-          BLOCKS: ⣿⣷⣶⣦⣤⣄⣀
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: main # optional
