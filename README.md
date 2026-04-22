@@ -46,14 +46,6 @@ nate@github:~$ learning --list
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 17 April 2026 - To: 21 April 2026
-
-Total Time: 1 hr 9 mins
-
-Python     7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-```
-
 <!--END_SECTION:waka-->
 
 <p align="center" width>
