@@ -36,20 +36,15 @@ nate@github:~$ socials --list
 nate@github:~$ stack --list
 
 > languages   [C#] [Python] [Java] [C]
-> frameworks  [.NET] [Flask]
+> frameworks  [ASP.NET] [Flask]
 > databases   [MySQL] [SQLite]
-```
-
-```bash
-nate@github:~$ tools --list
-
-> [Git] [Obsidian] [Raspberry Pi]
+> tools       [Azure-DevOps]
 ```
 
 ```bash
 nate@github:~$ learning --list
 
-> [Azure-DevOps] [AWS]
+> [AWS]
 > [JavaScript] [TypeScript] [C++]
 > [NoSQL] [MongoDB] [PostgresSQL]
 > [Linux]
