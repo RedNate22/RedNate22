@@ -13,31 +13,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: athul/waka-readme@master
         with:
-          ### GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          ### REPOSITORY: RedNate22/RedNate22 # optional
+          API_BASE_URL: https://wakatime.com/api
           ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: last_7_days # optional
-          LANG_COUNT: 30 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: true # optional
-          STOP_AT_OTHER: false # optional
-          IGNORED_LANGUAGES: Binary YAML JSON TOML XML Markdown Git-Config Batchfile # optional
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          CODE_LANG: rust
+          TIME_RANGE: last_28_days
+          LANG_COUNT: 30
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
+          STOP_AT_OTHER: false
+          IGNORED_LANGUAGES: Binary YAML JSON TOML XML Markdown Git Config Batchfile
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Nate # optional
-          AUTHOR_EMAIL: # optional
-          # you can populate email-id with secrets instead
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: Nate
