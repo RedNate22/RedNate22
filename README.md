@@ -44,11 +44,10 @@ nate@github:~$ stack --list
 ```bash
 nate@github:~$ learning --list
 
-> [AWS]
 > [JavaScript] [TypeScript] [C++]
-> [NoSQL] [MongoDB] [PostgresSQL]
-> [Linux]
-> [Godot]
+> [AWS]
+> [Vue] [Nuxt]
+> [PostgresSQL] [MongoDB]
 ```
 
 <!--START_SECTION:waka-->
