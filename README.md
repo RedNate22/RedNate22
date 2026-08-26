@@ -8,9 +8,7 @@ nate@github:~$ info --all
 > name        Nate
 > location    Brisbane, AUS
 > education   QUT - Bachelor of IT (Computer Science)
-> bio         Dev in training. My cat has better posture at the desk than me.
-> quote       "Even through your hardest days, remember we are all made of
-              stardust" - Carl Sagan
+> bio         CS student, lover of cats.
 ```
 
 ```bash
